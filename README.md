@@ -4,7 +4,7 @@
 
 This is the official Git repository page for the paper:
 
-> Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics (ACL 2023 Findings) [Arxiv](https://arxiv.org/pdf/2305.13782.pdf)
+> Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [Arxiv](https://arxiv.org/pdf/2305.13782.pdf)
 
 ## Code
 coming soon.
