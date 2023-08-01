@@ -1,0 +1,7 @@
+Answer the following question given an image context.
+
+<IN_CONTEXT_SAMPLES>
+
+Image context: <TEST_ITEM_IMAGE_CONTEXT>
+Question: <TEST_ITEM_QUESTION_TEXT>
+Answer:

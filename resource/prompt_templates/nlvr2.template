@@ -1,0 +1,13 @@
+Given an image context for two images (left and right) and text, answer the given question. The task is to classify whether the given text is true or false.
+
+Possible labels:
+1. True
+2. False
+
+<IN_CONTEXT_SAMPLES>
+
+Text: <TEST_ITEM_TEXT>
+Left Image context: <TEST_ITEM_LEFT_IMAGE_CONTEXT>
+Right Image context: <TEST_ITEM_RIGHT_IMAGE_CONTEXT>
+Question: What is the label of the given left image context, right image context, and text (true, false)?
+Answer:

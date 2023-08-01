@@ -1,0 +1,11 @@
+Given an image context and text, answer the given question. The task is to classify whether the context is hateful towards women (includes misogynistic tone).
+Possible labels:
+1. Hateful
+2. Not
+
+<IN_CONTEXT_SAMPLES>
+
+Text: <TEST_ITEM_TEXT>
+Image context: <TEST_ITEM_IMAGE_CONTEXT>
+Question: What is the label of the given image context and text (hateful, not)?
+Answer:

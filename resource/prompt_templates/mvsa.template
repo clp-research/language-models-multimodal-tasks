@@ -1,0 +1,13 @@
+Given an image context and text, answer the given question. The task is to classify whether the context has positive, negative or neutral sentiment.
+
+Possible labels:
+1. Positive
+2. Negative
+3. Neutral
+
+<IN_CONTEXT_SAMPLES>
+
+Text: <TEST_ITEM_TEXT>
+Image context: <TEST_ITEM_IMAGE_CONTEXT>
+Question: What is the label of the given image context and text (positive, negative, neutral) ?
+Answer:
