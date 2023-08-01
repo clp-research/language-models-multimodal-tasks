@@ -30,7 +30,7 @@ python extract_image_as_text_representation.py --dir images
 
 ### Prompting Large Language Models
 
-The prompt templates for each dataset are given in the 'resource/prompt_templates' directory.
+The prompt templates for each dataset are given in the [resource/prompt_templates](https://github.com/clp-research/language-models-multimodal-tasks/tree/main/resource/prompt_templates) directory.
 
 
 
